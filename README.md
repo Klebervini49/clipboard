@@ -19,7 +19,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui] (https://your-solution-url.com)
+- URL da solução: [https://www.frontendmentor.io/solutions/pgina-responsiva-usando-flexbox-_UtIKE8dC]
 - URL do site ativo: [https://klebervini49.github.io/clipboard-landing-page]
 
 ## Meu processo
