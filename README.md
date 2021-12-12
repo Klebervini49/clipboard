@@ -29,23 +29,10 @@ Os usuários devem ser capazes de:
 - HTML
 - CSS
 - Flexbox
-- Fluxo de trabalho que prioriza o celular
+ e o conteúdo desta seção e substitua por seus próprios aprendizados. **
 
-** Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias escolhas **
-
-### O que eu aprendi
-
-** Observação: exclua esta observação e o conteúdo desta seção e substitua por seus próprios aprendizados. **
-
-### Desenvolvimento contínuo
-
-Use esta seção para delinear as áreas nas quais deseja continuar a se concentrar em projetos futuros. Podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis e que deseja refinar e aperfeiçoar.
-
-** Observação: exclua esta observação e o conteúdo desta seção e substitua por seus próprios planos para desenvolvimento contínuo. **
 
 ## Autor
 
 - Site - [Kleberson Vinicius] (https://www.klebervini49.github.io)
 - Frontend Mentor - [@yourusername] (https://www.frontendmentor.io/profile/Klebervini49)
-
-** Observação: exclua esta observação e adicione / remova / edite as linhas acima com base nos links que deseja compartilhar. **
