@@ -2,21 +2,6 @@
 
 Esta é uma solução para o [desafio da página de destino da área de transferência no Frontend Mentor] (https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
-## Índice
-
-- [Visão geral] (# visão geral)
-  - [O desafio] (# o-desafio)
-  - [Captura de tela] (# captura de tela)
-  - [Links] (# links)
-- [Meu processo] (# meu-processo)
-  - [Construído com] (# integrado)
-  - [O que eu aprendi] (# o-que-aprendi)
-  - [Desenvolvimento contínuo] (# desenvolvimento contínuo)
-  - [Recursos úteis] (# recursos-úteis)
-- [Autor] (# autor)
-
-** Observação: exclua esta observação e atualize o índice com base nas seções que você mantém. **
-
 ## Visão geral
 
 ### O desafio
@@ -28,13 +13,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-! [] (./ screenshot.jpg)
-
-Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clique com o botão direito na página e selecione "Tirar uma captura de tela". Você pode escolher uma captura de tela de altura total ou cortada com base no comprimento da página. Se for muito longo, pode ser melhor cortá-lo.
-
-Alternativamente, você pode usar uma ferramenta como [FireShot] (https://getfireshot.com/) para fazer a captura de tela. FireShot tem uma opção gratuita, então você não precisa comprá-lo.
-
-Em seguida, recorte / otimize / edite sua imagem como quiser, adicione-a ao seu projeto e atualize o caminho do arquivo na imagem acima.
+! [] (.images/print.png)
 
 ** Nota: Exclua esta nota e os parágrafos acima ao adicionar sua captura de tela. Se você preferir não adicionar uma captura de tela, sinta-se à vontade para remover esta seção inteira. **
 
