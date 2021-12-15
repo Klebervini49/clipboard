@@ -11,12 +11,6 @@ Os usuários devem ser capazes de:
 - Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para todos os elementos interativos na página
 
-### Captura de tela
-
-! [] (.images/print.png)
-
-** Nota: Exclua esta nota e os parágrafos acima ao adicionar sua captura de tela. Se você preferir não adicionar uma captura de tela, sinta-se à vontade para remover esta seção inteira. **
-
 ### Links
 
 - URL da solução: [https://www.frontendmentor.io/solutions/pgina-responsiva-usando-flexbox-_UtIKE8dC]
@@ -31,8 +25,7 @@ Os usuários devem ser capazes de:
 - Flexbox
  e o conteúdo desta seção e substitua por seus próprios aprendizados. **
 
-
 ## Autor
 
 - Site - [Kleberson Vinicius] (https://www.klebervini49.github.io)
-- Frontend Mentor - [@yourusername] (https://www.frontendmentor.io/profile/Klebervini49)
+- Frontend Mentor - [@Klebervini49] (https://www.frontendmentor.io/profile/Klebervini49)
